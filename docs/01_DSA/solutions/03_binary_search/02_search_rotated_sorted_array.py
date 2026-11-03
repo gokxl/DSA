@@ -300,7 +300,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    One-pass:
    - More elegant
    - Same complexity O(log n)
-   - Preferred in practice if you can explain it
+   - Preferred if you can explain it
 
 9. FINDING THE PIVOT (Minimum Element):
    

@@ -299,7 +299,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - No valid path → 0
    - beginWord in wordList (doesn't matter)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Start with basic BFS + character replacement:
     

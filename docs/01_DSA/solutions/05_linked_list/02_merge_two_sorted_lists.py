@@ -243,7 +243,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Iterative:
    - O(1) space
    - More explicit
-   - Preferred for practice sessions
+   - Usually preferred
    
    Recursive:
    - O(n+m) space (call stack)
@@ -290,7 +290,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    ❌ Not attaching remaining list
    ❌ Returning dummy instead of dummy.next
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Always clarify:
     - "Can I modify the input lists?"

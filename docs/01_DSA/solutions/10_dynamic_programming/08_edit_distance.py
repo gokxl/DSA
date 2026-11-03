@@ -326,7 +326,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Delete Operation for Two Strings (LC 583)
    - Minimum ASCII Delete Sum (LC 712)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use 2D DP where dp[i][j] is the edit distance of
     word1[0:i] and word2[0:j].

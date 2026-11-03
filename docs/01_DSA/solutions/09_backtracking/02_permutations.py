@@ -150,7 +150,7 @@ def permute_builtin(nums: List[int]) -> List[List[int]]:
     """
     Using Python's itertools.permutations.
     
-    Not for practice sessions, but good to know!
+    Less common, but good to know.
     """
     return [list(p) for p in perm(nums)]
 
@@ -266,7 +266,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    
    Grows VERY fast!
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use backtracking with a used[] array.
     At each position, I try each unused element.

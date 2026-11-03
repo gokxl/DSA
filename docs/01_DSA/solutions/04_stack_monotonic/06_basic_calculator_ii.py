@@ -291,7 +291,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    
    Only add to result when we see + or - (and at end)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Walk through "3+2*2" step by step:
     - Show how you defer + operations

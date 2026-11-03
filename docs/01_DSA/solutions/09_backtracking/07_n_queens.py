@@ -327,7 +327,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    n=1: 1, n=2: 0, n=3: 0, n=4: 2
    n=5: 10, n=6: 4, n=7: 40, n=8: 92
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll place queens row by row. For each row, I try each
     column and check if it's safe using three sets:

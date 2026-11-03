@@ -329,13 +329,13 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    ❌ Mapping value instead of node object
    ❌ Returning original node instead of clone
 
-9. practice CLARIFICATIONS:
+9. QUESTIONS TO CLARIFY:
    
    Ask: "Is the graph connected?" (Usually yes)
    Ask: "Are node values unique?" (Usually yes)
    Ask: "Can there be self-loops?" (Usually no)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Explain the HashMap role clearly:
     

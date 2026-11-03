@@ -276,7 +276,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Combination Sum III (LC 216)
    - Perfect Squares (LC 279)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use backtracking with a start index to avoid duplicates.
     The key insight is that I DON'T increment the index when

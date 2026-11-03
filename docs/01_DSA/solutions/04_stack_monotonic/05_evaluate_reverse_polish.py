@@ -263,7 +263,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Time: O(n) - process each token once
    Space: O(n) - stack can hold all numbers
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Be careful with:
     - Order of operands for subtraction/division

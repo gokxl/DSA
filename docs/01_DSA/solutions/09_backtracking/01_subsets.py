@@ -176,7 +176,7 @@ if __name__ == "__main__":
     print()
 
 
-"""
+r"""
 ================================================================================
 KEY INSIGHTS FOR ALGORITHM STUDY:
 ================================================================================
@@ -255,7 +255,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Permutations (LC 46)
    - Combination Sum (LC 39)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use backtracking. At each position, I add the current
     subset to result (every subset is valid), then try adding

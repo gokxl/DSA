@@ -331,7 +331,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    
    Requires postorder (process children before parent).
    More complex - use hash map to store gains.
-   Recursive is cleaner for practice sessions.
+   Recursive is cleaner to write and explain.
 
 9. EDGE CASES:
    
@@ -339,7 +339,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - All negative values (must include at least one node)
    - Root is optimal path
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Explain the two concepts clearly:
     "At each node, I track two things:

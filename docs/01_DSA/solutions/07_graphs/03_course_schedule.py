@@ -1,4 +1,4 @@
-"""
+r"""
 ================================================================================
 PROBLEM: Course Schedule I & II (LeetCode 207 & 210)
 Difficulty: Medium | Pattern: Topological Sort
@@ -355,7 +355,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    "What's minimum semesters to finish all courses?"
    Use BFS, track levels. Answer = number of BFS levels.
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Start with Kahn's algorithm (more intuitive):
     

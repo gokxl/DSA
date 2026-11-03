@@ -103,7 +103,7 @@ def productExceptSelf_two_arrays(nums: List[int]) -> List[int]:
 
 
 # ============================================================================
-# SOLUTION 3: Space Optimized (Optimal - Use this in practice)
+# SOLUTION 3: Space Optimized (Optimal - recommended)
 # ============================================================================
 def productExceptSelf(nums: List[int]) -> List[int]:
     """
@@ -224,7 +224,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Any "excluding current element" problems
 
 ================================================================================
-practice COMMUNICATION:
+HOW TO EXPLAIN IT:
 ================================================================================
 
 "The key insight is that for each position i, I need the product of everything 

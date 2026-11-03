@@ -128,7 +128,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Quicksort with many duplicate keys uses 3-way partitioning to avoid O(n^2).
    Same core idea as this problem.
 
-5. practice TIP:
+5. HOW TO EXPLAIN IT:
    Draw the four regions (0s | 1s | unknown | 2s) and narrate how each move
    shrinks the unknown region. The invariant makes the pointer logic obvious.
 """

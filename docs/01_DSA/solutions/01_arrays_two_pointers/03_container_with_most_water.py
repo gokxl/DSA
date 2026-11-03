@@ -202,7 +202,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Best Time to Buy/Sell Stock - also uses two pointers greedy
 
 ================================================================================
-practice WALKTHROUGH:
+EXPLANATION WALKTHROUGH:
 ================================================================================
 
 1. "Let me understand the problem - we need to find two lines that maximize

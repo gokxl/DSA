@@ -318,7 +318,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    ❌ Not moving to front on get() (most common!)
    ❌ Forgetting to remove from hashmap on eviction
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll implement from scratch to show understanding,
     but in production I might use OrderedDict for simplicity."

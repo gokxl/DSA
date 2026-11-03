@@ -259,7 +259,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Meeting Rooms II (LC 253)
    - Minimum Number of Arrows (LC 452)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "First, I find the last occurrence of each character.
     

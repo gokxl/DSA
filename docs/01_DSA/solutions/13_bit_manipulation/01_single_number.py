@@ -102,7 +102,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Single Number III (LC 260): exactly TWO numbers appear once.
      XOR everything, isolate lowest set bit to split into two groups.
 
-4. practice TIP:
+4. HOW TO EXPLAIN IT:
    Mention you can do it with a HashSet in O(n) space first, then upgrade
    to the O(1) XOR trick. Showing the progression reads well.
 """

@@ -37,7 +37,7 @@ from typing import List
 
 
 # ============================================================================
-# SOLUTION 1: Brute Force (Don't use in practice, but mention it)
+# SOLUTION 1: Brute Force (Baseline - state it first, then optimize)
 # ============================================================================
 def twoSum_bruteforce(nums: List[int], target: int) -> List[int]:
     """
@@ -55,7 +55,7 @@ def twoSum_bruteforce(nums: List[int], target: int) -> List[int]:
 
 
 # ============================================================================
-# SOLUTION 2: HashMap (Optimal - Use this in practice)
+# SOLUTION 2: HashMap (Optimal - recommended)
 # ============================================================================
 def twoSum(nums: List[int], target: int) -> List[int]:
     """
@@ -84,7 +84,7 @@ def twoSum(nums: List[int], target: int) -> List[int]:
 def twoSum_sorted(nums: List[int], target: int) -> List[int]:
     """
     If array is SORTED, use two pointers.
-    Note: This returns values, not original indices (indices change after sort)
+    Note: returns positions in the sorted array, not original indices
     
     Time: O(n) if already sorted, O(n log n) if need to sort
     Space: O(1)
@@ -147,7 +147,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
 
 2. HASHMAP TRADEOFF
    - Trade space for time: O(n) space gives O(n) time
-   - This is a common pattern in practice sessions
+   - This is a common, reusable pattern
 
 3. EDGE CASES TO DISCUSS:
    - Duplicates: [3, 3] with target 6

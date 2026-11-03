@@ -400,4 +400,4 @@ def dp_2d(m, n):
 
 ---
 
-Print this. Memorize the flowchart. Pattern recognition is 60% of the practice.
+Use the flowchart to reason from constraints to a pattern, and understand why each pattern fits.

@@ -267,7 +267,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Task Scheduler
    - Circular Array Loop
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "First, I check if sum(gas) >= sum(cost). If not, no solution.
     

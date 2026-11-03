@@ -312,7 +312,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Tweet class: id, timestamp, next pointer
    User class: id, followees set, tweet list
    
-   Shows good design skills in practice!
+   Shows good design skills.
 
 7. EDGE CASES:
    
@@ -336,7 +336,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Design Tic-Tac-Toe (LC 348)
    - Design Hit Counter (LC 362)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use HashMaps for user data and followees.
     

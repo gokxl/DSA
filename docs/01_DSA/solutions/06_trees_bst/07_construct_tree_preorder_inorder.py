@@ -257,7 +257,7 @@ if __name__ == "__main__":
     # Expected: [3, 9, 20, None, None, 15, 7]
 
 
-"""
+r"""
 ================================================================================
 KEY INSIGHTS FOR ALGORITHM STUDY:
 ================================================================================
@@ -314,7 +314,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Slicing: Simpler code, but O(n²) time and space
    Indices: More complex, but O(n) optimal
    
-   For practice sessions, start with slicing, then optimize.
+   Start with slicing for clarity, then optimize.
 
 7. RELATED PROBLEMS:
    
@@ -341,7 +341,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    ❌ Not using HashMap (O(n²) instead of O(n))
    ❌ Wrong index calculations for subtree ranges
 
-10. practice APPROACH:
+10. RECOMMENDED APPROACH:
     
     1. Explain the insight: "First of preorder is root"
     2. Show how to divide inorder

@@ -35,7 +35,7 @@ def quickSort(nums: list[int]) -> list[int]:
     worst case on already-sorted input.
 
     Time:  O(n log n) average, O(n^2) worst (rare with random pivot)
-    Space: O(log n) recursion stack (in-place, no extra arrays)
+    Space: O(log n) average recursion stack; O(n) worst case (in-place)
     Stable: no
     """
     def partition(low: int, high: int) -> int:
@@ -98,7 +98,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    If you only need the k-th element, recurse into ONE side after partition.
    That drops average time to O(n). See 03_quickselect_kth_largest.py.
 
-5. practice TIP:
+5. HOW TO EXPLAIN IT:
    State the worst case up front and explain the random-pivot mitigation. It
    shows you understand WHY the algorithm is safe, not just how to code it.
 """

@@ -65,7 +65,7 @@ def hammingWeight_shift(n: int) -> int:
 
 
 # ============================================================================
-# SOLUTION 3: Built-in (know this exists, but explain the trick in practice)
+# SOLUTION 3: Built-in (know this exists, but be able to explain the trick)
 # ============================================================================
 def hammingWeight_builtin(n: int) -> int:
     """Python makes this trivial. Time: O(1) conceptually. Space: O(1)."""
@@ -99,7 +99,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
 3. RELATED: Counting Bits (LC 338) asks for this for every number 0..n and is
    best solved with DP: dp[i] = dp[i >> 1] + (i & 1).
 
-4. practice TIP:
+4. HOW TO EXPLAIN IT:
    Start with the simple shift-and-mask version, then mention Kernighan's
    optimization. Interviewers love the "I can do better" moment.
 """

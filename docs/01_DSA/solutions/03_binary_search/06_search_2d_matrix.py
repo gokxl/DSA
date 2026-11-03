@@ -284,7 +284,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Kth Smallest Element in Sorted Matrix (LC 378)
    - Count Negative Numbers in Sorted Matrix (LC 1351)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Start by clarifying the matrix properties:
     "So the entire matrix is globally sorted?"

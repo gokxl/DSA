@@ -313,7 +313,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    
    Treat it as linked list cycle detection!
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     If asked "how does it work?", explain the math:
     "When they meet, the distance from head to cycle start

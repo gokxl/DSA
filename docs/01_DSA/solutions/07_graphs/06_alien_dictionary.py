@@ -332,7 +332,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Find lexicographically smallest valid order
    - Count number of valid orderings
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Walk through an example step by step:
     

@@ -282,7 +282,7 @@ if __name__ == "__main__":
     print(f"Deserialized: {print_tree_level_order(deserialized_bfs)}")
 
 
-"""
+r"""
 ================================================================================
 KEY INSIGHTS FOR ALGORITHM STUDY:
 ================================================================================
@@ -369,7 +369,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Serialize: Preorder traversal
    Deserialize: Use min/max bounds
 
-9. practice PRESENTATION:
+9. HOW TO PRESENT IT:
    
    "I'll use preorder traversal with null markers.
    

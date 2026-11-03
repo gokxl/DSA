@@ -222,7 +222,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - At any point: rooms = meetings_started - meetings_ended
    - Maximum of this value across all points = answer
 
-5. WHICH TO USE IN practice?
+5. WHICH TO CHOOSE?
    - Sweep line is more elegant and easier to explain
    - Heap is more intuitive ("simulate the process")
    - Know both! Interviewer might ask for alternative

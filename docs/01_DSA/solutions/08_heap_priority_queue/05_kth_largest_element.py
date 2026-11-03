@@ -300,7 +300,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Top K Frequent Elements (LC 347)
    - K Closest Points to Origin (LC 973)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "For static arrays, I'd use Quick Select for O(n) average time.
     For streaming data, I'd use a min-heap of size k for O(n log k).

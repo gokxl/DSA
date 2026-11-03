@@ -212,7 +212,7 @@ After merge: [[1,6], [8,10], [15,18]]
                     15--18
 
 ================================================================================
-practice WALKTHROUGH:
+EXPLANATION WALKTHROUGH:
 ================================================================================
 
 "For interval problems, my first instinct is to sort - this usually helps.

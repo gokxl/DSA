@@ -83,7 +83,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
 3. SUBTRACTION VARIANT:
    a - b is the same algorithm with b negated: getSum(a, getSum(~b, 1)).
 
-4. practice TIP:
+4. HOW TO EXPLAIN IT:
    In Java/C++ you can drop all the masking -- the loop `while (b != 0)` with
    native int overflow just works. Say that explicitly so the interviewer knows
    the masking is a Python-specific concern, not a flaw in your logic.

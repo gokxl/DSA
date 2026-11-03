@@ -293,7 +293,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    
    Math is simpler and faster!
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "The key insight is that the most frequent task determines
     the minimum time. If it appears f times, we need at least

@@ -247,7 +247,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Largest Rectangle in Histogram (LC 84)
    - Sum of Subarray Minimums (LC 907)
 
-9. practice TIP:
+9. HOW TO EXPLAIN IT:
    
    Draw the stack state at each step. It really helps visualize:
    

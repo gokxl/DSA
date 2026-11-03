@@ -116,7 +116,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - LC 1071 (GCD of Strings), LC 914 (X of a Kind), LC 1979.
    - Python ships math.gcd and math.lcm -- know them, but be able to derive.
 
-4. practice TIP:
+4. HOW TO EXPLAIN IT:
    Memorize the two-line iterative gcd: `while b: a, b = b, a % b`. It is one of
    the highest-value snippets to have in muscle memory.
 """

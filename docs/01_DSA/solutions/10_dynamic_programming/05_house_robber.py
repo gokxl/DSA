@@ -270,7 +270,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Delete and Earn (LC 740)
    - Paint House (LC 256)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "This is a classic DP problem. At each house, I either
     skip it (take dp[i-1]) or rob it (take nums[i] + dp[i-2]).

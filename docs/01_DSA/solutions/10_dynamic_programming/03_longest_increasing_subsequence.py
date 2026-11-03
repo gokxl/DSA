@@ -336,7 +336,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Maximum Length of Pair Chain (LC 646)
    - Increasing Triplet Subsequence (LC 334)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "The O(n²) solution uses dp[i] = LIS ending at i.
     For O(n log n), I maintain tails[i] = smallest ending

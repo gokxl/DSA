@@ -257,7 +257,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Longest Valid Parentheses (LC 32)
    - Score of Parentheses (LC 856)
 
-9. practice TIP:
+9. HOW TO EXPLAIN IT:
    
    Always mention the optimization for odd length strings.
    Shows attention to edge cases and optimization thinking.

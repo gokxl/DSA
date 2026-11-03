@@ -119,7 +119,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
 4. RANDOM PIVOT:
    Same reason as quicksort -- avoids O(n^2) on sorted/adversarial input.
 
-5. practice TIP:
+5. HOW TO EXPLAIN IT:
    Ask the interviewer about constraints: streaming vs in-memory, size of k.
    That conversation naturally leads you to pick heap vs quickselect and shows
    senior-level judgment.

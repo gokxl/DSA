@@ -1,10 +1,10 @@
 # Common Mistakes to Avoid
 
-Learn from others' failures. Don't repeat these in your practice.
+Common mistakes and how to avoid them.
 
 ---
 
-## Top 10 practice Killers
+## Top 10 Common Mistakes
 
 ### 1. Starting to Code Too Fast
 
@@ -217,4 +217,4 @@ def twoSum(nums, target):
 
 ---
 
-Read this before every practice session. Read this before practice sessions.
+Review this before each practice session.

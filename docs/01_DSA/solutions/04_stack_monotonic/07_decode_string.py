@@ -277,7 +277,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
 9. STRING BUILDING EFFICIENCY:
    
    In Python, string += is O(n) per operation.
-   For practice sessions, this is acceptable.
+   This is usually acceptable.
    
    For production, use list and ''.join():
    result = []

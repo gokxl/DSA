@@ -99,7 +99,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Number of 1 Bits (LC 191) is the single-value version.
    - The i & (i - 1) trick is the same Brian Kernighan idea reused as DP.
 
-4. practice TIP:
+4. HOW TO EXPLAIN IT:
    Draw the binary table for 0..5 and point out that i and i>>1 differ by only
    the trailing bit. That observation is the whole solution.
 """

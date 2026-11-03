@@ -265,7 +265,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Recursively handle rest
    - Connect the reversed group
 
-9. practice TIP:
+9. HOW TO EXPLAIN IT:
    
    Start with iterative solution (cleaner).
    Then mention: "I can also solve this recursively"

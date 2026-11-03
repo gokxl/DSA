@@ -107,7 +107,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - HashSet: simplest to write, O(k) space.
    - Floyd's cycle: O(1) space, the "better" answer to state.
 
-4. practice TIP:
+4. HOW TO EXPLAIN IT:
    Lead with the HashSet (fast to code, easy to explain), then say "I can drop
    to O(1) space by treating it as cycle detection" and show Floyd's. That
    progression is exactly what Google looks for.

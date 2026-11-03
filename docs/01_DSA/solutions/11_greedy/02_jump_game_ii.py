@@ -258,7 +258,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Jump Game III (LC 1306)
    - Video Stitching (LC 1024)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use greedy. I track two things:
     1. current_end: boundary of current jump

@@ -89,7 +89,7 @@ def numIslands_bfs(grid: List[List[str]]) -> int:
     BFS to explore each island level by level.
     
     Time: O(m * n)
-    Space: O(min(m, n)) - queue size
+    Space: O(m * n) worst case - queue size
     """
     if not grid or not grid[0]:
         return 0
@@ -352,7 +352,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Each cell is visited at most once by DFS/BFS
    - Even though DFS seems nested, total visits = O(m * n)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Start with recursive DFS (cleanest).
     Mention: "For very large grids, I'd use iterative DFS

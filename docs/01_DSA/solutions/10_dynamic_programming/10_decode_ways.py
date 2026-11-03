@@ -220,7 +220,7 @@ if __name__ == "__main__":
     s6 = "2101"
     print(f"s = '{s6}'")
     print(f"Result: {numDecodings(s6)}")
-    # Expected: 1 (U-J-A, since 01 is invalid, 10 is J, 21 is U)
+    # Expected: 1 (2-10-1 = B-J-A; "01" is invalid, so 10 must pair)
 
 
 """
@@ -285,7 +285,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    String can contain '*' which matches 1-9.
    Much more complex - need to count all possibilities.
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "This is like Climbing Stairs but with validity constraints.
     At each position, I can decode 1 or 2 digits if valid.

@@ -301,7 +301,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Recursive: Cleaner, natural for trie
    Iterative: Avoids stack overflow for long words
    
-   Either is fine for practice.
+   Either is fine.
 
 9. RELATED PROBLEMS:
    
@@ -309,7 +309,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Word Search II (LC 212)
    - Design Search Autocomplete (LC 642)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use a Trie for O(m) word insertion.
     For search with '.', I use DFS:

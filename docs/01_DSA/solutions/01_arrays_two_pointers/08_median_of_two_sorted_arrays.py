@@ -315,7 +315,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
      
      Valid! Median = (max(3, 2) + min(5, 4)) / 2 = (3 + 4) / 2 = 3.5
 
-7. COMMON practice VARIATIONS:
+7. COMMON VARIATIONS:
    
    Q: What if arrays can have duplicates?
    A: Algorithm still works, duplicates handled naturally

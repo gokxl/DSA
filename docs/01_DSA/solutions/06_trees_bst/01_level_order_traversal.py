@@ -284,7 +284,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    ❌ Forgetting to check if root is None
    ❌ Using list instead of deque (O(n) popleft)
 
-9. practice TIP:
+9. HOW TO EXPLAIN IT:
    
    Start with BFS approach (more intuitive).
    Mention: "I can also solve with DFS by tracking level"

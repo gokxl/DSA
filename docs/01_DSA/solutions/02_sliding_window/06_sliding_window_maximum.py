@@ -329,7 +329,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Jump Game VI (LC 1696)
    - Max Value of Equation (LC 1499)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Start by explaining the brute force O(nk) approach.
     Then explain why monotonic deque helps:

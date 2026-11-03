@@ -320,7 +320,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Longest Univalue Path (LC 687)
    - Maximum Depth of Binary Tree (LC 104)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "This is similar to Max Path Sum - at each node I track
     two things: the diameter through this node (for global max)

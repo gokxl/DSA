@@ -245,7 +245,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    If chars_to_replace > k → Invalid, shrink
    If chars_to_replace <= k → Valid, expand
 
-5. COMMON practice VARIATIONS:
+5. COMMON VARIATIONS:
    
    Q: What if we can only replace with a specific character?
    A: Track frequency of that character only
@@ -276,7 +276,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Longest Subarray with Ones after Deletion (LC 1493)
    - Minimum Window Substring (LC 76)
 
-9. practice TIP:
+9. HOW TO EXPLAIN IT:
    
    Start with the strict shrinking approach (easier to explain).
    Then mention: "We can optimize by not updating max_count 

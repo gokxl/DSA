@@ -287,7 +287,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Minimum Window Substring (LC 76) - variable window
    - Longest Substring Without Repeating (LC 3)
 
-9. practice TIP:
+9. HOW TO EXPLAIN IT:
    
    If interviewer says "optimize your comparison", discuss:
    - Tracking formed/required instead of full comparison

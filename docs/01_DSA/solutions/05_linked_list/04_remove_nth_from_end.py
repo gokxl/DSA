@@ -279,7 +279,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    
    Walk through pointer positions on whiteboard!
 
-8. practice FLOW:
+8. SOLVING FLOW:
    
    1. Clarify: "nth from END, not beginning?"
    2. Start with two-pass (simpler)

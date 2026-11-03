@@ -292,7 +292,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Word Break (LC 139)
    - Longest Palindromic Substring (LC 5)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use backtracking: at each position, I try each
     possible palindrome prefix and recurse on the suffix.

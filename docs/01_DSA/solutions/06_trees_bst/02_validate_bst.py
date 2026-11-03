@@ -313,7 +313,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Uses BST property directly
    - Good to mention as alternative
 
-7. COMMON practice VARIATIONS:
+7. COMMON VARIATIONS:
    
    - Find kth smallest (LC 230)
    - Inorder successor (LC 285)
@@ -340,7 +340,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    
    Check: 4 in range (5, +∞)? No! 4 < 5 → Invalid
 
-10. practice PRESENTATION:
+10. HOW TO PRESENT IT:
     
     "I'll use the range bound approach because it directly
     captures the BST definition - every node must be within

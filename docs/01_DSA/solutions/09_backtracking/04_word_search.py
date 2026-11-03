@@ -311,7 +311,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Number of Islands (LC 200)
    - Surrounded Regions (LC 130)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use DFS backtracking from each cell that matches
     the first character.

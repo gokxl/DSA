@@ -284,7 +284,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Shortest Common Supersequence (LC 1092)
    - Delete Operation for Two Strings (LC 583)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use 2D DP where dp[i][j] is the LCS of text1[0:i]
     and text2[0:j].

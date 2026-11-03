@@ -260,7 +260,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    
    Total = sum of both possibilities
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "This is essentially Fibonacci. Each step can be reached
     from 1 step before or 2 steps before.

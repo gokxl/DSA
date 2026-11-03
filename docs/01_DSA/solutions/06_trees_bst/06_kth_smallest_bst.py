@@ -323,14 +323,14 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Augmented BST:
    - Always O(H) for any k!
 
-9. practice CLARIFICATIONS:
+9. QUESTIONS TO CLARIFY:
    
    Ask: "Can the tree be modified?"
    Ask: "How frequent are the queries?"
    
    These determine if augmented BST is needed.
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Start with basic inorder solution.
     Then optimize with early exit.

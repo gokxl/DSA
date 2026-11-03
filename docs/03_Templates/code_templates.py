@@ -3,9 +3,9 @@
 CODE TEMPLATES TO MEMORIZE
 ================================================================================
 These templates should be AUTOMATIC. You should be able to write them without
-thinking so you can focus on the PROBLEM-SPECIFIC logic in practice sessions.
+thinking so you can focus on the PROBLEM-SPECIFIC logic.
 
-Practice: Close this file and rewrite each template from memory.
+Practice: Close this file, rebuild each template, and explain why each line is needed.
 ================================================================================
 """
 
@@ -575,7 +575,7 @@ class UnionFind:
 
 
 # ==============================================================================
-# PRACTICE: Close this file and write each template from memory!
+# PRACTICE: Close this file, rebuild each template, and explain why each line is needed.
 # ==============================================================================
 
 """

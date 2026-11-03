@@ -295,7 +295,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Dictionary: Flexible, space-efficient for sparse data
    Array [26]: Faster access, fixed memory per node
    
-   Use dict for practice unless told otherwise.
+   Use a dict unless told otherwise.
 
 5. COMMON OPERATIONS:
    
@@ -333,7 +333,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Replace Words (LC 648)
    - Design Search Autocomplete (LC 642)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "Trie is a tree where each node represents a character.
     The path from root to any node spells a prefix.

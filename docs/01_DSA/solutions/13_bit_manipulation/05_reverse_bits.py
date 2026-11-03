@@ -91,7 +91,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Python ints are arbitrary precision, so mask with 0xFFFFFFFF to stay within
    32 bits. This is a common gotcha that does not exist in C/Java.
 
-4. practice TIP:
+4. HOW TO EXPLAIN IT:
    The bit-by-bit version is enough to pass. Mention the byte-cache follow-up
    to show you understand amortized optimization.
 """

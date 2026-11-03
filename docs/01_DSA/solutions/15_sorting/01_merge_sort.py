@@ -98,7 +98,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Merge sort needs O(n) auxiliary space; quicksort sorts in place with O(log n)
    stack. Mention this trade-off -- it is a common follow-up.
 
-5. practice TIP:
+5. HOW TO EXPLAIN IT:
    If asked to sort without built-ins, merge sort is the safest choice because
    its O(n log n) bound holds regardless of input (no adversarial pivot risk).
 """

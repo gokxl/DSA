@@ -271,7 +271,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Product of Array Except Self (LC 238)
    - Maximum Length of Subarray with Positive Product (LC 1567)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "Unlike max sum subarray, products have a twist: negative
     times negative is positive!

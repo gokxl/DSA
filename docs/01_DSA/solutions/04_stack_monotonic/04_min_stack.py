@@ -260,7 +260,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Time: O(1) for all operations
    Space: O(n) for storing elements + mins
 
-9. practice TIP:
+9. HOW TO EXPLAIN IT:
    
    Start by asking: "Can I use extra space?"
    If yes, the two-stack solution is cleanest.

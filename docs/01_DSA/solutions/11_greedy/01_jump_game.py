@@ -238,7 +238,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Jump Game III (LC 1306) - can jump left/right
    - Jump Game IV (LC 1345) - same value jumps
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use greedy. At each position, I track the maximum
     index I can reach. If I ever reach a position beyond

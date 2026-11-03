@@ -199,7 +199,7 @@ if __name__ == "__main__":
     # Expected: 0
 
 
-"""
+r"""
 ================================================================================
 KEY INSIGHTS FOR ALGORITHM STUDY:
 ================================================================================
@@ -283,7 +283,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Peak Index in Mountain Array - LC 852
    - Find Minimum in Rotated Array - LC 153
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     When asked "Why can we use binary search on unsorted array?":
     

@@ -303,7 +303,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Concatenated Words (LC 472)
    - Palindrome Partitioning (LC 131)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use DP where dp[i] = true if s[0:i] can be segmented.
     For each position i, I check all previous positions j:

@@ -253,7 +253,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    heapq.nlargest(k, iterable, key=...)
    
    Internally uses min-heap of size k.
-   Very clean solution for practice sessions.
+   Very clean solution.
 
 5. QUICK SELECT FOR TOP K:
    
@@ -290,7 +290,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    
    Bucket sort is optimal!
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use bucket sort for O(n) time.
     

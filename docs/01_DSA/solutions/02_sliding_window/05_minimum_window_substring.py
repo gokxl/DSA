@@ -340,7 +340,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Find All Anagrams (LC 438) - fixed size, same freq
    - Permutation in String (LC 567) - fixed size, same freq
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     This problem has multiple edge cases. Walk through your solution 
     with these test cases:

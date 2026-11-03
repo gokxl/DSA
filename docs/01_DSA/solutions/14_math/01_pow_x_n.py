@@ -106,7 +106,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    x^-n = 1 / x^n. Flip x to 1/x and negate n. Careful: negating INT_MIN
    overflows in fixed-width languages (not in Python) -- mention this.
 
-4. practice TIP:
+4. HOW TO EXPLAIN IT:
    The iterative version avoids recursion depth concerns for large n. Lead with
    it, then offer the elegant recursive form if asked.
 """

@@ -300,7 +300,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Path With Minimum Effort (LC 1631) - binary search + BFS
    - Swim in Rising Water (LC 778) - binary search or Dijkstra
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "This is shortest path from single source - classic Dijkstra.
     

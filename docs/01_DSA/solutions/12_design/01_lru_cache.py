@@ -33,7 +33,7 @@ CONSTRAINTS:
 
 
 # ============================================================================
-# SOLUTION 1: HashMap + Doubly Linked List (practice Standard)
+# SOLUTION 1: HashMap + Doubly Linked List (Standard Approach)
 # ============================================================================
 class ListNode:
     """Doubly linked list node."""
@@ -296,7 +296,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Python's OrderedDict has move_to_end() and popitem(last=False).
    Perfect for LRU!
    
-   But show HashMap + DLL first in practice.
+   But understand the HashMap + DLL version first.
 
 7. COMMON MISTAKES:
    
@@ -316,7 +316,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - All O(1) Data Structure (LC 432)
    - Design HashMap (LC 706)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I need O(1) for both get and put. HashMap gives O(1) lookup,
     but I also need to track access order.

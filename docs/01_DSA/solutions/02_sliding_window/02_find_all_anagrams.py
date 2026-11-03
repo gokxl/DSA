@@ -291,7 +291,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Shrink when valid, expand when invalid
    - Looking for minimum/maximum valid window
 
-6. COMMON practice VARIATIONS:
+6. COMMON VARIATIONS:
    
    Q: What if the string contains uppercase letters?
    A: Normalize to lowercase: s.lower()

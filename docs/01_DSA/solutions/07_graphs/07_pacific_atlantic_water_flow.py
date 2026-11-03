@@ -305,7 +305,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Walls and Gates (LC 286)
    - Rotting Oranges (LC 994)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "The naive approach checks from each cell - O(n²×m²).
     

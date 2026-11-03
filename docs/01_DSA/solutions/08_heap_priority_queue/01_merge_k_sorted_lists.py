@@ -168,7 +168,7 @@ def mergeKLists_sequential(lists: List[Optional[ListNode]]) -> Optional[ListNode
 def mergeKLists_pythonic(lists: List[Optional[ListNode]]) -> Optional[ListNode]:
     """
     Convert to arrays, use built-in merge, convert back.
-    Not ideal for practice sessions but good to know.
+    Less practical, but good to know.
     
     Time: O(N log k)
     Space: O(N)
@@ -326,7 +326,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Ugly Number II (LC 264)
    - Find K Pairs with Smallest Sums (LC 373)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use a min-heap of size k. I push the first node from
     each list, then repeatedly pop the minimum and push the

@@ -279,7 +279,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    2. Write verification function
    3. Binary search for optimal answer
 
-9. practice DISCUSSION POINTS:
+9. DISCUSSION POINTS:
    
    Q: Why not just try all speeds from 1 to max?
    A: That's O(max * n) which could be 10^9 * 10^4 = too slow

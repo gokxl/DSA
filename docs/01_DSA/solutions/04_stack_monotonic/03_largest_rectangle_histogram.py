@@ -294,7 +294,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Time: O(n) - each bar pushed and popped once
    - Space: O(n) - stack size
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Draw the histogram! Label each bar with its index.
     For the popped bar, draw the rectangle it creates.

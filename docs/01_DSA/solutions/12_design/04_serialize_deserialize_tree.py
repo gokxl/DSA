@@ -322,7 +322,7 @@ if __name__ == "__main__":
     print(f"Serialized: {serialized4}")
 
 
-"""
+r"""
 ================================================================================
 KEY INSIGHTS FOR ALGORITHM STUDY:
 ================================================================================
@@ -390,7 +390,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Construct from Preorder/Inorder (LC 105)
    - Flatten to Linked List (LC 114)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use preorder traversal with null markers. This makes
     the tree structure unambiguous.

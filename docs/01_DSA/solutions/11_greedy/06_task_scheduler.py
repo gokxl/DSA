@@ -279,7 +279,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Reorganize String (LC 767)
    - Rearrange String k Distance Apart (LC 358)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "The key insight is that the most frequent task determines
     the minimum time. I visualize it as a grid:

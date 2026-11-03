@@ -112,7 +112,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    The array has indices 0..n-1, so we naturally count primes below n. Watch
    this off-by-one -- a classic interviewer trap.
 
-4. practice TIP:
+4. HOW TO EXPLAIN IT:
    Define primality clearly (> 1, divisible only by 1 and itself), handle n<3
    up front, then build the sieve. Narrate the p*p optimization -- it is the
    detail that distinguishes a prepared candidate.

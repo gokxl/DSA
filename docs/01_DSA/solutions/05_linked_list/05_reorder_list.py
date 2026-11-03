@@ -254,7 +254,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    b) Reverse Linked List
    c) Merge Two Lists (alternating)
    
-   Each is a common practice question on its own!
+   Each is a useful exercise on its own.
 
 2. FINDING THE MIDDLE:
    
@@ -325,7 +325,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Reverse Linked List (LC 206)
    - Middle of Linked List (LC 876)
 
-10. practice PRESENTATION:
+10. HOW TO PRESENT IT:
     
     "This problem combines three classic operations:
     1. Find middle using fast & slow pointers

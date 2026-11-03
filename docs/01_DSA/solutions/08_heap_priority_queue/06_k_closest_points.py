@@ -242,7 +242,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    heapq.nsmallest(k, iterable, key=func)
    
    Uses max-heap internally.
-   Very clean for practice sessions!
+   Very clean to write and explain.
 
 6. EUCLIDEAN DISTANCE FORMULA:
    
@@ -268,7 +268,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Top K Frequent Elements (LC 347)
    - Closest Points on a plane (not LC)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use a max-heap of size k. For each point, I calculate
     the squared distance (no sqrt needed for comparison).

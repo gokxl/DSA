@@ -272,7 +272,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Store parent pointers during DP
    - Backtrack from (m-1, n-1) to (0, 0)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "This is a classic grid DP. Each cell's path count is
     the sum of paths from above and from left.

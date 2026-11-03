@@ -286,7 +286,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Sliding Window Median (LC 480) - harder!
    - Kth Largest Element in Stream (LC 703)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "I'll use two heaps - a max-heap for the smaller half
     and a min-heap for the larger half.

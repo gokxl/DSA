@@ -319,7 +319,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Explicit cycle and connectivity check
    - O(N + E)
    
-   Both are good for practice sessions!
+   Both are good choices.
 
 7. RELATED PROBLEMS:
    
@@ -339,7 +339,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Two nodes, no edge → False (not connected)
    - Self-loop → Not allowed per constraints
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "A valid tree has exactly n-1 edges.
     I'll first check edge count - if wrong, return false.

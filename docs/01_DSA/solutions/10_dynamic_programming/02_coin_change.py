@@ -274,7 +274,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Minimum Cost for Tickets (LC 983)
    - Perfect Squares (LC 279)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "Greedy doesn't work here because largest coins aren't
     always optimal. I'll use DP where dp[i] is the minimum

@@ -249,7 +249,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Greedy: O(n log n) for sort
    DP: O(n²) - much slower!
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "This is classic interval scheduling. I sort by end time
     because earliest-finishing interval leaves most room.

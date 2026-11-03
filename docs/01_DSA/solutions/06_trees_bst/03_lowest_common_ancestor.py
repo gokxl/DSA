@@ -1,4 +1,4 @@
-"""
+r"""
 ================================================================================
 PROBLEM: Lowest Common Ancestor of a Binary Tree (LeetCode 236)
 Difficulty: Medium | Pattern: Tree DFS
@@ -342,7 +342,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    
    This is a key difference!
 
-9. practice CLARIFICATIONS:
+9. QUESTIONS TO CLARIFY:
    
    Ask:
    - "Is this a BST or general binary tree?"
@@ -351,7 +351,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    
    These affect solution choice!
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     Start with recursive approach - it's elegant and shows
     good understanding.

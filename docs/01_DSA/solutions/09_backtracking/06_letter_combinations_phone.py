@@ -298,7 +298,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Combinations (LC 77)
    - Subsets (LC 78)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "This is a Cartesian product problem. At each digit,
     I have 3-4 letter choices. I'll use backtracking to

@@ -321,7 +321,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Implement Queue using Stacks (LC 232)
    - Daily Temperatures (LC 739)
 
-10. practice TIP:
+10. HOW TO EXPLAIN IT:
     
     "The challenge is O(1) getMin. A single min variable won't
     work because when we pop the min, we don't know the next min.

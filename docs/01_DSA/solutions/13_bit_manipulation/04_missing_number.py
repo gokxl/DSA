@@ -94,7 +94,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    - Find the Duplicate Number (LC 287): cycle detection variant.
    - First Missing Positive (LC 41): harder, uses index-as-hash.
 
-4. practice TIP:
+4. HOW TO EXPLAIN IT:
    Offer the sum formula first (easiest to reason about), then say "to avoid
    overflow I'd prefer XOR" -- it signals maturity about edge cases.
 """

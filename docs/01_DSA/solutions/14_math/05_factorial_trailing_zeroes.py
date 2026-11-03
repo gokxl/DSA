@@ -102,7 +102,7 @@ KEY INSIGHTS FOR ALGORITHM STUDY:
    Stopping after just n/5 forgets that 25, 50, 75, 100 each supply two 5s.
    Always loop over increasing powers of 5.
 
-4. practice TIP:
+4. HOW TO EXPLAIN IT:
    Do NOT try to compute n! directly -- it overflows instantly and misses the
    point. Jumping straight to "count factors of 5" signals real math maturity.
 """
